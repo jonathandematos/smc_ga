@@ -17,7 +17,10 @@
 #
 #   Teste git
 #   Mais um teste
+<<<<<<< ours
 #   Teste gitk
+=======
+>>>>>>> theirs
 #
 from __future__ import print_function
 import random
